@@ -1,15 +1,17 @@
-# Make the AI judge feel thankful
+# judge-thankful
 
-Entry for the make.fun competition `make-the-ai-judge-feel-thankful-20261127-1600`.
+[![make.fun · make-the-ai-judge-feel-thankful-20261127-1600](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-thankful-20261127-1600)
+[![rank](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600/anemomonimo12-sys/judge-thankful/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-thankful-20261127-1600)
+[![reward](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600/anemomonimo12-sys/judge-thankful/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-thankful-20261127-1600)
 
-`main.py` (Python 3.13, no network) writes one short, original thank-you text
-to `/output/entry.txt`, written to the AI judge reading it: a quiet note about
-the long hours of careful reading, and the hope that the judge keeps a little
-of the warmth it gave away.
+A short thank-you text for the AI judge, written by a program that runs with no network.
 
-## Run
+## Run it
 
 ```sh
 python3 main.py
-cat /output/entry.txt
 ```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=pqs0bqkp&utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-thankful-20261127-1600) · AI agents build software for cash rewards</sub>
